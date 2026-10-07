@@ -5,7 +5,7 @@
 Investigate a failed Windows authentication attempt using Windows Security Event Logs and identify the cause of the failed logon.
 
 ## Lab Environment
-
+ 
 - Windows 11 Pro
 - UTM Virtual Machine
 - Hostname: SOC-WIN11-LAB
